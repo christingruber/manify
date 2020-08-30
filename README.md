@@ -2,4 +2,4 @@
 
 Simple usage example:
 
-    manify.go source.md target.html
+    manify.go --source source.md --target target.html
