@@ -1,3 +1,5 @@
 # Manify
 
-    manify source.md target.html
+Simple usage example:
+
+    manify.go source.md target.html
